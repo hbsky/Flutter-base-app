@@ -1,3 +1,5 @@
+## [1.0.1] - Update base_app export
+
 ## [1.0.0] - First release.
 
 First version released with with 4 components:
