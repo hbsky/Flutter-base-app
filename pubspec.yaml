@@ -1,6 +1,7 @@
-name: base_bloc_dio_app
+name: base_app
 description: Base Flutter App with dio for http request, dio_http_cache for caching, flutter_bloc for default design pattern
-
+homepage: https://github.com/hbsky/Flutter-base-app/tree/base
+repository: https://github.com/hbsky/Flutter-base-app/tree/base
 version: 1.0.0
 
 environment:
