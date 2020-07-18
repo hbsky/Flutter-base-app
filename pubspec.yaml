@@ -2,7 +2,7 @@ name: base_app
 description: Base Flutter App with dio for http request, dio_http_cache for caching, flutter_bloc for default design pattern
 homepage: https://github.com/hbsky/Flutter-base-app/tree/base
 repository: https://github.com/hbsky/Flutter-base-app/tree/base
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -16,7 +16,7 @@ dependencies:
   dio_http_cache: ^0.2.7
   # BLoC design pattern
   flutter_bloc: ^5.0.1
-  loading_overlay_pro: ^2.0.0
+  loading_overlay_pro: ^2.0.1
 
 dev_dependencies:
   flutter_test:

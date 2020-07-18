@@ -1,3 +1,5 @@
+## [1.0.4] - Add screen dimens
+
 ## [1.0.3] - Update base_app export
 
 ## [1.0.2] - Update ChangeLog
