@@ -23,7 +23,7 @@ abstract class BaseBloc<E, S> extends Bloc<E, S> {
         case DioErrorType.SEND_TIMEOUT:
         case DioErrorType.RECEIVE_TIMEOUT:
           errorContent = sErrorConnectTimeOut;
-          BaseRequest.I.close();
+          BaseRequest.I?.close();
           break;
         case DioErrorType.RESPONSE:
           switch (error.response.statusCode) {

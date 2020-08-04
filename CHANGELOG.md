@@ -1,3 +1,5 @@
+## [1.0.5] - Fix bugs, update strings
+
 ## [1.0.4] - Add screen dimens
 
 ## [1.0.3] - Update base_app export
